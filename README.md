@@ -1,2 +1,6 @@
 # ComfyUI-AudioLDM
-ComfyUI Workflow to run audioldm pipeline
+
+ComfyUI Workflow to run audioldm-l-full pipeline  
+
+https://huggingface.co/cvssp/audioldm-l-full
+
